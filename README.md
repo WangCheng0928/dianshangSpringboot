@@ -1,2 +1,3 @@
 # dianshangspringboot
-电商项目的springboot实现，主要是jpa的不同，再次测试合并分支
+电商项目的springboot实现，主要是jpa的不同
+功能和电商项目第一期的SSM实现一样
